@@ -13,6 +13,9 @@ __pip install playsound__
 
 playsound module is used for notifying you using notification sound.
 
+You can download chromedriver from 
+__https://chromedriver.chromium.org/downloads__
+
 You have to change the 'pin-code' variable to your convinience.
 
 __This program works by checking the number of elements which have 'no-available' as their class in html page of site https://www.cowin.gov.in/home.__
