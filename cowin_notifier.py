@@ -27,8 +27,8 @@ while True:
     time.sleep(10)
 
     not_available = chrome_browser.find_elements_by_class_name('no-available')
-    print(len(not-available))
-    if(len(not-available) != 29):
+    print(len(not_available))
+    if(len(not_available) != 29):
         # you have to enter the mp3 file location which is played when slots are available.
         playsound('E:\\PythonProjects\\Cowin\\Ironman.mp3')
         
